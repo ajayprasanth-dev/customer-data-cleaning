@@ -1,0 +1,48 @@
+name,email,age,country,income,join_date
+Bob,bob29@gmail.com,22,Unknown,30000.0,
+Alice,alice90@gmail.com,66,United States,30000.0,2023-12-05
+Eva,eva44@gmail.com,86,Brazil,20000.0,
+Bob,bob71@gmail.com,87,Canada,0.0,2023-12-05
+Bob,bob49@gmail.com,88,United Kingdom,40000.0,2023-05-12
+Jack,jack32@gmail.com,51,United States,20000.0,2023-05-12
+Eva,eva73@gmail.com,,Brazil,40000.0,
+Ian,ian75@gmail.com,30,United States,75000.0,2023-05-12
+Grace,grace77@gmail.com,,United States,,2023-12-05
+Bob,bob1@gmail.com,62,United States,20000.0,2023-12-05
+Ian,ian98@gmail.com,,Brazil,20000.0,2023-12-05
+Charlie,charlie55@gmail.com,46,United Kingdom,0.0,
+Hannah,hannah44@gmail.com,,Canada,30000.0,2023-05-12
+Frank,frank86@gmail.com,,France,30000.0,2023-05-12
+Frank,frank94@gmail.com,20,Canada,75000.0,2023-05-12
+David,david24@gmail.com,22,Germany,0.0,2023-05-12
+Bob,bob22@gmail.com,97,United States,50000.0,2023-05-12
+Eva,eva72@gmail.com,43,United States,,2023-12-05
+Alice,alice68@gmail.com,22,United States,0.0,2023-05-12
+Bob,bob75@gmail.com,,Brazil,40000.0,2023-12-05
+David,david83@gmail.com,,Brazil,20000.0,2023-05-12
+Ian,ian9@gmail.com,35,Germany,,
+Alice,alice85@gmail.com,62,United States,30000.0,2023-12-05
+David,david82@gmail.com,59,United States,50000.0,2023-05-12
+Alice,alice34@gmail.com,,United States,0.0,
+Frank,frank53@gmail.com,55,United States,20000.0,2023-12-05
+Grace,grace32@gmail.com,22,United States,30000.0,2023-05-12
+Frank,frank30@gmail.com,97,United States,40000.0,
+Grace,grace43@gmail.com,61,Unknown,,2023-12-05
+Grace,grace50@gmail.com,22,United States,75000.0,2023-05-12
+Frank,frank43@gmail.com,26,India,0.0,2023-05-12
+Eva,eva86@gmail.com,39,India,,2023-12-05
+David,david84@gmail.com,49,Canada,20000.0,
+Frank,frank31@gmail.com,45,United States,50000.0,2023-05-12
+Hannah,hannah25@gmail.com,97,Brazil,75000.0,2023-05-12
+Grace,grace90@gmail.com,58,United States,75000.0,
+Ian,ian57@gmail.com,,Germany,30000.0,2023-05-12
+Hannah,hannah82@gmail.com,,India,0.0,2023-12-05
+Frank,frank18@gmail.com,34,United States,40000.0,2023-05-12
+Alice,alice99@gmail.com,92,United Kingdom,50000.0,2023-05-12
+Ian,ian78@gmail.com,64,United States,0.0,2023-05-12
+Charlie,charlie80@gmail.com,22,United Kingdom,50000.0,2023-12-05
+Grace,grace44@gmail.com,,United States,0.0,2023-12-05
+Jack,jack33@gmail.com,24,United States,20000.0,2023-12-05
+Jack,jack51@gmail.com,57,India,,
+Alice,alice48@gmail.com,,France,40000.0,2023-05-12
+Charlie,charlie84@gmail.com,,Canada,40000.0,2023-05-12
